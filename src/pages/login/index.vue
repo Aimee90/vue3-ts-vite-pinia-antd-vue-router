@@ -1,9 +1,9 @@
 <template>
-  <div class="401">401</div>
+  <div class="index">login-index</div>
 </template>
 <script>
   export default {
-    name: '401',
+    name: 'index',
     data() {
       return {
 
@@ -18,4 +18,6 @@
   }
 </script>
 <style style scoped>
+  .index {
+  }
 </style>

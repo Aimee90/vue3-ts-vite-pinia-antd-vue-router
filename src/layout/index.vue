@@ -3,9 +3,9 @@
 </template>
 <script setup lang = "ts">
   import { ref } from 'vue'
-  const message = ref('layout')
+  const message = ref('home-layout')
 </script>
-<style style lang="less" scoped>
+<style style scoped>
   .index {
   }
 </style>
